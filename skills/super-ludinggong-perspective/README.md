@@ -5,8 +5,7 @@ This directory contains a Codex/Nuwa perspective skill distilled from 248 Snowba
 ## Contents
 
 - `SKILL.md`: the runnable perspective skill.
-- `references/research/`: synthesis notes, evidence mapping, timeline, expression DNA, and quality validation.
-- `references/research/article-index.md`: index of the 248 source articles used during distillation.
+- `RESEARCH.md`: summarized research pack, evidence mapping, timeline, expression DNA, and quality validation.
 
 ## Notes
 
